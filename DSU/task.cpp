@@ -172,3 +172,11 @@ int main(){
     for(auto it : edages) cout<<it<<" ";
     return 0;
 }
+
+
+// git init
+// git add README.md
+// git commit -m "first commit"
+// git branch -M main
+// git remote add origin https://github.com/dinumaan/DSA.git
+// git push -u origin main
